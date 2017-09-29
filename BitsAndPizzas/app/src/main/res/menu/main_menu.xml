@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:bwq="http://schemas.android.com/apk/res-auto" >
+
+    <!-- THIS SHOWS SHARE ICON AND MAKES SURE THE APP DOESNT CRASH -->
+    <item
+        android:id="@+id/action_share"
+        android:title="@string/sharing"
+        android:orderInCategory="1"
+        bwq:showAsAction="ifRoom"
+        bwq:actionProviderClass="android.support.v7.widget.ShareActionProvider"  />
+
+    <item
+        android:id="@+id/action_call"
+        android:icon="@drawable/ic_action_call"
+        android:title="@string/action"
+        android:orderInCategory="1"
+        app:showAsAction="ifRoom" />
+
+
+
+
+</menu>

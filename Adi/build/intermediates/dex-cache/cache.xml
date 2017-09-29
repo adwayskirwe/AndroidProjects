@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Kirwe-Macbook/.android/build-cache/7f9d596de2c4321f7f930178c652bb31b6e914d4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/Kirwe-Macbook/AndroidStudioProjects/Adi/app/build/intermediates/pre-dexed/debug/classes_a44d12fea18e49729dfabcb6d6142a6fd3e51107.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kirwe-Macbook/.android/build-cache/7820f0aa97a0613278d72d28b0c4dc81ca04ed40/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/Kirwe-Macbook/AndroidStudioProjects/Adi/app/build/intermediates/pre-dexed/debug/classes_a5a60a5bc7cca133a1648775deb8baccd6876edf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kirwe-Macbook/.android/build-cache/ab1bf5fb9d6e41cd3f51b4251fb7d788a4d67547/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/Kirwe-Macbook/AndroidStudioProjects/Adi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_355f34a45c97dcb8c8475f263a5455506f9576cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kirwe-Macbook/AndroidStudioProjects/Adi/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/Kirwe-Macbook/AndroidStudioProjects/Adi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6a9a1617b465b6f2dc3cb6d7864b3b13ac48e134/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kirwe-Macbook/.android/build-cache/7820f0aa97a0613278d72d28b0c4dc81ca04ed40/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/Kirwe-Macbook/AndroidStudioProjects/Adi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a5a60a5bc7cca133a1648775deb8baccd6876edf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kirwe-Macbook/AndroidStudioProjects/Adi/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="211931f135323c3644ef2abbd28f36d8206b0bd0">
+        <dex dex="/Users/Kirwe-Macbook/AndroidStudioProjects/Adi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_92b699915f31ba6e1717c680cb04a61d7954ba44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kirwe-Macbook/.android/build-cache/7f9d596de2c4321f7f930178c652bb31b6e914d4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/Kirwe-Macbook/AndroidStudioProjects/Adi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a44d12fea18e49729dfabcb6d6142a6fd3e51107/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kirwe-Macbook/.android/build-cache/ab1bf5fb9d6e41cd3f51b4251fb7d788a4d67547/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/Kirwe-Macbook/AndroidStudioProjects/Adi/app/build/intermediates/pre-dexed/debug/classes_355f34a45c97dcb8c8475f263a5455506f9576cb.jar" />
+    </item>
+
+</items>

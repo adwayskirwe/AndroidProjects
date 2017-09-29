@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Kirwe-Macbook/AndroidStudioProjects/Workout/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f9adaefe06c7e893c7ba94f80a85599a5e7d8a">
+        <dex dex="/Users/Kirwe-Macbook/AndroidStudioProjects/Workout/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_afc91351570811bd6236b9ca78429f5b86d4947b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kirwe-Macbook/AndroidStudioProjects/Workout/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/Kirwe-Macbook/AndroidStudioProjects/Workout/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6d52cba1b4ff2bd5721395325b9687581891424e/classes.dex" />
+    </item>
+
+</items>

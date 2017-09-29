@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.kirwe_macbook.helloworld.MainActivity">
+
+    <ImageView
+        android:id="@+id/androidparty_image_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/androidparty"
+        android:scaleType="fitXY" />
+
+    <TextView
+        android:id="@+id/HBD_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/wishes"
+        android:textSize="32sp"
+        android:textStyle="italic"
+        android:textColor="#ffffff"
+        android:fontFamily="sans-serif-light"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="15dp"
+        />
+
+    <TextView
+        android:id="@+id/from_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="From Lyla"
+        android:textSize="28sp"
+        android:textColor="#fff"
+        android:layout_marginRight="15dp"
+        android:layout_marginBottom="15dp"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+
+        />
+
+
+</RelativeLayout>

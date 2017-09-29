@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">JustJava</string>
+    <string-array name="nation">
+        <item>India</item>
+        <item>US</item>
+        <item>Canada</item>
+        <item>Australia</item>
+    </string-array>
+    <string name="btn_name">Click me</string>
+    <string name="radio1">Male</string>
+    <string name="radio2">Female</string>
+    <string name="check1">C</string>
+    <string name="check2">C++</string>
+    <string name="check3">Java</string>
+    <string name="Gender">Gender :</string>
+    <string name="KnownLanguages">Known Languages :</string>
+    <string name="Country">Select your nationality :</string>
+    <string name="title_activity_display">DisplayActivity</string>
+</resources>

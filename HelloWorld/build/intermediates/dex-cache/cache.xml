@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Kirwe-Macbook/AndroidStudioProjects/HelloWorld/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="966d3de1837caa4737dfad26e07ef13d528e41b7">
+        <dex dex="/Users/Kirwe-Macbook/AndroidStudioProjects/HelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_32000ae532bad54d8cf39586d3ca38916824119d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kirwe-Macbook/.android/build-cache/0cc31540886359beea4a5e23a0d0718acb4b55eb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/Kirwe-Macbook/AndroidStudioProjects/HelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5c8ff7588bcf3bb3a4db36f3e861290c168ec21c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kirwe-Macbook/.android/build-cache/d196f60b955631e01350490bfccdcabb75750f14/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/Kirwe-Macbook/AndroidStudioProjects/HelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_809c71df9701bd86411894e57d314ba0d7f91910/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kirwe-Macbook/.android/build-cache/a24805baa7b5e2bf36cb928859e48327d85cd457/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/Kirwe-Macbook/AndroidStudioProjects/HelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e0e07c72fbbe05dd209ac9214c05ba4a325b3da7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kirwe-Macbook/.android/build-cache/36b5c564387e7bd771a53d2d86d26ceeaf883a03/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/Kirwe-Macbook/AndroidStudioProjects/HelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d040d186d572530960ae5417998f1304d9226448/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kirwe-Macbook/.android/build-cache/6fa41a4c8add871fc199fb6fa5b7ce34a1994d5c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/Kirwe-Macbook/AndroidStudioProjects/HelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be0db73d5d75133033bbfeb545f794e7d20d5cef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kirwe-Macbook/.android/build-cache/514a7d687a15dc85e29391fc81ad7db029c24842/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/Kirwe-Macbook/AndroidStudioProjects/HelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7fa73cc7dd13b7b85cd15d35f48d79e4afce880c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kirwe-Macbook/.android/build-cache/b8ffe2fce833cadb9a78e6b98c82b90d78db9a12/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/Kirwe-Macbook/AndroidStudioProjects/HelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dd22b6db0ea9fa026f0d25ed77c53804f474daa7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kirwe-Macbook/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/Kirwe-Macbook/AndroidStudioProjects/HelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_48d3f98eedb7289babd3d5f3ed12ab56c6679b47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kirwe-Macbook/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/Kirwe-Macbook/AndroidStudioProjects/HelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_e7d44bd810b4851a84e4e587a40be4a2b5cca078/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kirwe-Macbook/.android/build-cache/c148d172ad02994b741dc2ca4330820ccece1b90/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/Kirwe-Macbook/AndroidStudioProjects/HelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b183f4f16fdd548cd4069c49e39daacac029cb84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kirwe-Macbook/.android/build-cache/3e6960f67dcd1c79869eea10a20a9b36cb2baaa3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Kirwe-Macbook/AndroidStudioProjects/HelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f072cda0d6da97b473386be707f100f94c8c438d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kirwe-Macbook/.android/build-cache/c62d85a53d2910874a481097ca2d13b9f9cf7076/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/Kirwe-Macbook/AndroidStudioProjects/HelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e666988f9a6fda4feb1fd4869a5b9d49235592f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kirwe-Macbook/AndroidStudioProjects/HelloWorld/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/Kirwe-Macbook/AndroidStudioProjects/HelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7f4deff9872ff49ee545f6330aa9534cee7da227/classes.dex" />
+    </item>
+
+</items>

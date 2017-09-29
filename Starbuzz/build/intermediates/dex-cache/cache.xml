@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Kirwe-Macbook/AndroidStudioProjects/Starbuzz/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/Kirwe-Macbook/AndroidStudioProjects/Starbuzz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_025481cefe2862d2b14156895a1591a3916c0d17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kirwe-Macbook/AndroidStudioProjects/Starbuzz/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="af12c4df66dee8825c93950ebdd0eee1d0b48abe">
+        <dex dex="/Users/Kirwe-Macbook/AndroidStudioProjects/Starbuzz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_217fba492b06429d409bcf6089c515ebfa04da4f/classes.dex" />
+    </item>
+
+</items>

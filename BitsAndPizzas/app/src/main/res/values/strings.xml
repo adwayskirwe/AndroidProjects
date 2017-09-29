@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BitsAndPizzas</string>
+    <string name="action">My Action</string>
+    <string name="sharing">Share</string>
+</resources>

@@ -1,0 +1,91 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Kirwe-Macbook/AndroidStudioProjects/JustJava/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/Kirwe-Macbook/AndroidStudioProjects/JustJava/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /Users/Kirwe-Macbook/AndroidStudioProjects/JustJava/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Kirwe-Macbook/AndroidStudioProjects/JustJava/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Kirwe-Macbook/AndroidStudioProjects/JustJava/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Kirwe-Macbook/AndroidStudioProjects/JustJava/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Kirwe-Macbook/AndroidStudioProjects/JustJava/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/Kirwe-Macbook/AndroidStudioProjects/JustJava/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Kirwe-Macbook/AndroidStudioProjects/JustJava/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/Kirwe-Macbook/AndroidStudioProjects/JustJava/app/src/main/AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/Kirwe-Macbook/.android/build-cache/a24805baa7b5e2bf36cb928859e48327d85cd457/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/Kirwe-Macbook/.android/build-cache/3e6960f67dcd1c79869eea10a20a9b36cb2baaa3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/Kirwe-Macbook/.android/build-cache/6fa41a4c8add871fc199fb6fa5b7ce34a1994d5c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/Kirwe-Macbook/.android/build-cache/d196f60b955631e01350490bfccdcabb75750f14/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/Kirwe-Macbook/.android/build-cache/36b5c564387e7bd771a53d2d86d26ceeaf883a03/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/Kirwe-Macbook/.android/build-cache/c148d172ad02994b741dc2ca4330820ccece1b90/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/Kirwe-Macbook/.android/build-cache/0cc31540886359beea4a5e23a0d0718acb4b55eb/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/Kirwe-Macbook/.android/build-cache/b8ffe2fce833cadb9a78e6b98c82b90d78db9a12/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/Kirwe-Macbook/.android/build-cache/514a7d687a15dc85e29391fc81ad7db029c24842/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Kirwe-Macbook/.android/build-cache/c62d85a53d2910874a481097ca2d13b9f9cf7076/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/Kirwe-Macbook/AndroidStudioProjects/JustJava/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/Kirwe-Macbook/AndroidStudioProjects/JustJava/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/Kirwe-Macbook/AndroidStudioProjects/JustJava/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/Kirwe-Macbook/AndroidStudioProjects/JustJava/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/Kirwe-Macbook/AndroidStudioProjects/JustJava/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/Kirwe-Macbook/AndroidStudioProjects/JustJava/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.android.justjava.MainActivity
+ADDED from /Users/Kirwe-Macbook/AndroidStudioProjects/JustJava/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/Kirwe-Macbook/AndroidStudioProjects/JustJava/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Kirwe-Macbook/AndroidStudioProjects/JustJava/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/Kirwe-Macbook/AndroidStudioProjects/JustJava/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/Kirwe-Macbook/AndroidStudioProjects/JustJava/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Kirwe-Macbook/AndroidStudioProjects/JustJava/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/Kirwe-Macbook/AndroidStudioProjects/JustJava/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.android.justjava.Activity2
+ADDED from /Users/Kirwe-Macbook/AndroidStudioProjects/JustJava/app/src/main/AndroidManifest.xml:19:8-21:19
+	android:name
+		ADDED from /Users/Kirwe-Macbook/AndroidStudioProjects/JustJava/app/src/main/AndroidManifest.xml:19:18-43
+uses-sdk
+INJECTED from /Users/Kirwe-Macbook/AndroidStudioProjects/JustJava/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/Kirwe-Macbook/.android/build-cache/a24805baa7b5e2bf36cb928859e48327d85cd457/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/Kirwe-Macbook/.android/build-cache/3e6960f67dcd1c79869eea10a20a9b36cb2baaa3/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/Kirwe-Macbook/.android/build-cache/6fa41a4c8add871fc199fb6fa5b7ce34a1994d5c/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/Kirwe-Macbook/.android/build-cache/d196f60b955631e01350490bfccdcabb75750f14/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/Kirwe-Macbook/.android/build-cache/36b5c564387e7bd771a53d2d86d26ceeaf883a03/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/Kirwe-Macbook/.android/build-cache/c148d172ad02994b741dc2ca4330820ccece1b90/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/Kirwe-Macbook/.android/build-cache/0cc31540886359beea4a5e23a0d0718acb4b55eb/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/Kirwe-Macbook/.android/build-cache/b8ffe2fce833cadb9a78e6b98c82b90d78db9a12/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/Kirwe-Macbook/.android/build-cache/514a7d687a15dc85e29391fc81ad7db029c24842/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Kirwe-Macbook/.android/build-cache/c62d85a53d2910874a481097ca2d13b9f9cf7076/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/Kirwe-Macbook/.android/build-cache/a24805baa7b5e2bf36cb928859e48327d85cd457/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/Kirwe-Macbook/AndroidStudioProjects/JustJava/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Kirwe-Macbook/AndroidStudioProjects/JustJava/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Kirwe-Macbook/AndroidStudioProjects/JustJava/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Kirwe-Macbook/AndroidStudioProjects/JustJava/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/Kirwe-Macbook/.android/build-cache/a24805baa7b5e2bf36cb928859e48327d85cd457/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/Kirwe-Macbook/.android/build-cache/3e6960f67dcd1c79869eea10a20a9b36cb2baaa3/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/Kirwe-Macbook/.android/build-cache/6fa41a4c8add871fc199fb6fa5b7ce34a1994d5c/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/Kirwe-Macbook/.android/build-cache/d196f60b955631e01350490bfccdcabb75750f14/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/Kirwe-Macbook/.android/build-cache/36b5c564387e7bd771a53d2d86d26ceeaf883a03/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/Kirwe-Macbook/.android/build-cache/c148d172ad02994b741dc2ca4330820ccece1b90/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/Kirwe-Macbook/.android/build-cache/0cc31540886359beea4a5e23a0d0718acb4b55eb/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/Kirwe-Macbook/.android/build-cache/b8ffe2fce833cadb9a78e6b98c82b90d78db9a12/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/Kirwe-Macbook/.android/build-cache/514a7d687a15dc85e29391fc81ad7db029c24842/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/Kirwe-Macbook/.android/build-cache/a24805baa7b5e2bf36cb928859e48327d85cd457/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/Kirwe-Macbook/.android/build-cache/a24805baa7b5e2bf36cb928859e48327d85cd457/output/AndroidManifest.xml:26:9-47
